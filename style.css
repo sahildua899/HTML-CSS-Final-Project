@@ -1129,10 +1129,10 @@ body {
         line-height: 42px;
     }
     .banner-button-section {
-        width: 10%;
+        width: 30%;
     }
     .banner-button {
-        font-size: 8px;
+        font-size: 12px;
         font-weight: 600;
         letter-spacing: 1px;
     }
